@@ -1,0 +1,14 @@
+D:\VS\Homework_Inheritance\Homework_Inheritance\bin\Debug\net6.0\Homework_Inheritance.exe
+D:\VS\Homework_Inheritance\Homework_Inheritance\bin\Debug\net6.0\Homework_Inheritance.deps.json
+D:\VS\Homework_Inheritance\Homework_Inheritance\bin\Debug\net6.0\Homework_Inheritance.runtimeconfig.json
+D:\VS\Homework_Inheritance\Homework_Inheritance\bin\Debug\net6.0\Homework_Inheritance.dll
+D:\VS\Homework_Inheritance\Homework_Inheritance\bin\Debug\net6.0\Homework_Inheritance.pdb
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.AssemblyInfoInputs.cache
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.AssemblyInfo.cs
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.csproj.CoreCompileInputs.cache
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.dll
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\refint\Homework_Inheritance.dll
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.pdb
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\Homework_Inheritance.genruntimeconfig.cache
+D:\VS\Homework_Inheritance\Homework_Inheritance\obj\Debug\net6.0\ref\Homework_Inheritance.dll
